@@ -15,9 +15,9 @@
 - 非限制性许可；
 - 主要在学术任务方面接受训练；
 
-<img src="D:\Onedrive\Work-Documents\NLP-LLM\imgs\imgs_002\Figure_1.png" alt="Figure_1" style="zoom:67%;" />
+<img src="./imgs/imgs_002/Figure_1.png" alt="Figure_1" style="zoom:50%;" />
 
-<img src="D:\Onedrive\Work-Documents\NLP-LLM\imgs\imgs_002\Figure_2.png" alt="Figure_2" style="zoom:67%;" />
+<img src="./imgs/imgs_002/Figure_2.png" alt="Figure_2" style="zoom:50%;" />
 
 
 
